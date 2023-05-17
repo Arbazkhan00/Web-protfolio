@@ -17,7 +17,7 @@ const About=()=>{
                         <p className="mt-4 text-slate-500">My name is Arbaz khan<br/>Im from Murree<br/>
                         <address>Umair Shopping Mall Nayab Garments GPO Chowk Murree<br/>
                        Email: arbazjani8@gmail.com </address>
-                            Currently im doing Bachelor of Science in Artificail Itelegeance From Iqra University and also doing Metaverse Course from PIAIC...</p>
+                            Currently im doing Bachelor of Science in artificial intelligence From Iqra University and also doing Metaverse Course from PIAIC...</p>
                         
                     </div>
             </div>
