@@ -8,7 +8,7 @@ const About=()=>{
             <section>
                 <Wrapper>
             <div className=" flex flex-col md:flex-row mt-5 justify-between items-center">
-                <div className="mx-30 font-medium transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110  duration-300">
+                <div className="mx-30 font-medium ">
                     <Image src={pic} alt="About Pic" width={500}></Image>
                 </div>
                 <div >
