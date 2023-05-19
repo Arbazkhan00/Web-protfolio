@@ -16,7 +16,7 @@ const Hero=() => {
                     </div>
                     
                     <div className="mx-35 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110  duration-300 ... ">
-                        <Image src={pic} alt="The side pic" width={400} ></Image>
+                        <Image src={pic} alt="The side pic" width={400}  ></Image>
                     </div>
                 </div>
                 </Wrapper>
