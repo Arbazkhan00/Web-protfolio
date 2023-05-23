@@ -14,7 +14,7 @@ const About=()=>{
                 <div >
                         <h2 className="text-2xl font-medium">About Me</h2>
                         <h1 className="text-5xl font-medium transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110  duration-300 ...  mt-2">PERSONAL DETAILS</h1>
-                        <p className="mt-4 text-slate-500">My name is Arbaz khan<br/>Im from Murree<br/>
+                        <p className="mt-4 text-slate-800">My name is Arbaz khan<br/>Im from Murree<br/>
                         Umair Shopping Mall Nayab Garments GPO Chowk Murree<br/>
                        Email: arbazjani8@gmail.com 
                             Currently im doing Bachelor of Science in artificial intelligence From Iqra University and also doing Metaverse Course from PIAIC...</p>
