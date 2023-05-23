@@ -1,5 +1,4 @@
 import Wrapper from "@/components/share/Wrapper"
-import Link from "next/link"
 import first from "@/components/Stuff/first.jpeg"
 import second from "@/components/Stuff/second.jpeg"
 import third from "@/components/Stuff/third.jpeg"

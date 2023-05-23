@@ -4,7 +4,7 @@ import Wrapper from "@/components/share/Wrapper"
 
 const Header=()=>{
     return(
-        <nav className="flex sticky top-0 justify-center items-center ">
+        <header className="flex sticky top-0 justify-center items-center ">
                    
                     <Wrapper>
                         
@@ -24,7 +24,7 @@ const Header=()=>{
             </ul>
           
             </Wrapper>
-            </nav>
+            </header>
        
 
     )
