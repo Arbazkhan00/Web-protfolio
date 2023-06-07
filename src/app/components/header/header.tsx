@@ -1,5 +1,5 @@
 import Link from "next/link"
-import Wrapper from "@/components/share/Wrapper"
+import Wrapper from "../share/Wrapper"
 
 
 const Header=()=>{
@@ -14,11 +14,11 @@ const Header=()=>{
                     
                 </li>
                 <li className="transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110  duration-300 ...  ">
-                    <Link href="/SecondSection">About</Link>
+                    <Link href="/components/about">About</Link>
                     
                 </li>
                 <li className="transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110  duration-300 ... ">
-                    <Link href={"/Experiance"}>Service</Link>
+                    <Link href="/components/services">Service</Link>
                     
                 </li>
             </ul>

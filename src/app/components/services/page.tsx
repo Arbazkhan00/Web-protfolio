@@ -1,10 +1,10 @@
-import Wrapper from "@/components/share/Wrapper"
-import first from "@/components/Stuff/first.jpeg"
-import second from "@/components/Stuff/second.jpeg"
-import third from "@/components/Stuff/third.jpeg"
-import writing from "@/components/Stuff/writing.jpeg"
-import glowing from "@/components/Stuff/glowing.jpeg"
-import light from "@/components/Stuff/light.jpeg"
+import Wrapper from "../share/Wrapper"
+import first from "../Stuff/first.jpeg"
+import second from "../Stuff/second.jpeg"
+import third from "../Stuff/third.jpeg"
+import writing from "../Stuff/writing.jpeg"
+import glowing from "../Stuff/glowing.jpeg"
+import light from "../Stuff/light.jpeg"
 import Image from "next/image"
 const Manu=()=>{
     return(

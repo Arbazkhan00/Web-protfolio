@@ -1,7 +1,7 @@
-import Wrapper from "@/components/share/Wrapper"
-import pic from "@/components/Stuff/pic.png"
+import Wrapper from "../share/Wrapper"
+import pic from "../Stuff/pic.png"
+
 import Image from "next/image"
-import Button from "@/components/share/Button"
 const Hero=() => {
     return(
        
